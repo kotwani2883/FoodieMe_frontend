@@ -95,10 +95,10 @@ textarea {
 }
 
 .login {
-  background-color: teal;
+  background-color: black;
   margin-right: 10px;
 }
 
 .register {
-  background-color: slateblue;
+  background-color: green;
 }
