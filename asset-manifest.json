@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6c14074.chunk.css",
-    "main.js": "/static/js/main.54bb5b2f.chunk.js",
-    "main.js.map": "/static/js/main.54bb5b2f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8229295a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8229295a.js.map",
-    "static/js/2.77d86c3e.chunk.js": "/static/js/2.77d86c3e.chunk.js",
-    "static/js/2.77d86c3e.chunk.js.map": "/static/js/2.77d86c3e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d6c14074.chunk.css.map": "/static/css/main.d6c14074.chunk.css.map",
-    "static/js/2.77d86c3e.chunk.js.LICENSE.txt": "/static/js/2.77d86c3e.chunk.js.LICENSE.txt"
+    "main.css": "/kotwani2883/FoodieMe_frontend/static/css/main.d6c14074.chunk.css",
+    "main.js": "/kotwani2883/FoodieMe_frontend/static/js/main.54bb5b2f.chunk.js",
+    "main.js.map": "/kotwani2883/FoodieMe_frontend/static/js/main.54bb5b2f.chunk.js.map",
+    "runtime-main.js": "/kotwani2883/FoodieMe_frontend/static/js/runtime-main.82e84c35.js",
+    "runtime-main.js.map": "/kotwani2883/FoodieMe_frontend/static/js/runtime-main.82e84c35.js.map",
+    "static/js/2.c650f140.chunk.js": "/kotwani2883/FoodieMe_frontend/static/js/2.c650f140.chunk.js",
+    "static/js/2.c650f140.chunk.js.map": "/kotwani2883/FoodieMe_frontend/static/js/2.c650f140.chunk.js.map",
+    "index.html": "/kotwani2883/FoodieMe_frontend/index.html",
+    "static/css/main.d6c14074.chunk.css.map": "/kotwani2883/FoodieMe_frontend/static/css/main.d6c14074.chunk.css.map",
+    "static/js/2.c650f140.chunk.js.LICENSE.txt": "/kotwani2883/FoodieMe_frontend/static/js/2.c650f140.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8229295a.js",
-    "static/js/2.77d86c3e.chunk.js",
+    "static/js/runtime-main.82e84c35.js",
+    "static/js/2.c650f140.chunk.js",
     "static/css/main.d6c14074.chunk.css",
     "static/js/main.54bb5b2f.chunk.js"
   ]
